@@ -5,4 +5,5 @@ Listing:
 - Eliott, ice cream
 - Renata, ice cream
 - Sophia, chocolate
+- Karina, cookies
 
