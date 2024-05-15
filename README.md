@@ -3,4 +3,4 @@
 Listing:
 - Julien, **pancake**
 - Eliott, ice cream
-- Renata, ice cream +1
+- Renata, ice cream
