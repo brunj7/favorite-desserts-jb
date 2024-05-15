@@ -1,2 +1,5 @@
-# favorite-desserts-jb
-Listing of favorite desserts
+# Favorite Desserts of the LEAF Lab
+
+Listing:
+- Julien, **pancake**
+- Eliott, ice cream
