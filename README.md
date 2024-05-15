@@ -4,3 +4,5 @@ Listing:
 - Julien, **pancake**
 - Eliott, ice cream
 - Renata, ice cream
+- Sophia, chocolate
+
