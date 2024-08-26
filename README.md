@@ -8,3 +8,4 @@ Listing:
 - Karina, cookies
 - joshua, chocolate
 - Brian, gelato
+- Brian, ice cream
