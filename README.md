@@ -6,4 +6,4 @@ Listing:
 - Renata, ice cream
 - Sophia, chocolate
 - Karina, cookies
-
+- joshua, chocolate
