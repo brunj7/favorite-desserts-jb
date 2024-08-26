@@ -9,5 +9,5 @@ bruns_fav <- read_csv("data/favorite_desserts.csv")
 # Join on the fav dessert columns
 inner_join(bruns_fav, iconic_data, join_by(Favorite_dessert == dessert))
 
-# initial edit in the merge conflict exercise
+# initial edit in the merge conflict exercise part 2
 
