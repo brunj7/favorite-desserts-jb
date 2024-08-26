@@ -7,3 +7,4 @@ Listing:
 - Sophia, chocolate
 - Karina, cookies
 - joshua, chocolate
+- Brian, gelato
